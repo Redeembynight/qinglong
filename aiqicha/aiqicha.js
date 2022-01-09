@@ -2,6 +2,8 @@
  cron "0 30 10,19 * * ?" ql_aiqicha.js
  爱企查邀请连接：https://aiqicha.baidu.com/m/usercenter/inviteCode?uid=xlTM-TogKuTwvdzTq9EFdGvdxrmJpAANFgmd
 
+https://raw.githubusercontent.com/WindFgg/Scripts/main/Scripts/ql_aiqicha.js
+
  手动抓取CK:https://passport.baidu.com/v2/?login 一个BDUSS=xxxxx;就行了 请安装axios依赖
  定时每天早上8点执行一次 8点半执行一次 账号多的请加大延迟 可能有一些任务跑不完 如:高级搜索 浏览监控日报 属正常现象 (百度抽风)  批量查询任务暂时无法完成
  多账号请用@分割Cookie  格式:ck1@ck2@ck2 青龙变量aqcCookies qx和v2p不可用
